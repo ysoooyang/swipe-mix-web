@@ -1,0 +1,7 @@
+GitHub Pages 发布方式（二选一）：
+
+1）新建仓库后，把「本目录下的所有文件」放到仓库根目录（不要多一层 github 文件夹），再在 Settings → Pages 里选 Branch: main、Folder: / (root)。
+
+2）若希望整仓里保留其他代码：把本目录改名为 docs，放在仓库根目录，Pages 里选 Folder: /docs。
+
+本副本内 CSS/JS/图片 已改为相对路径，适用于 username.github.io/仓库名/ 子路径访问。
